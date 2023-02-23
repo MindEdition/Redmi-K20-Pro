@@ -37,4 +37,4 @@
 
 #### Download
 - [OneDrive](https://1drv.ms/f/s!AlF3Be_wRLoUgxtK3y-ij76_qBlR)
-
+- [Gdrive](https://drive.google.com/uc?id=12mSngGbUUTkoo8rlGsxeuHBZgDmcUuyH&export=download)
