@@ -38,3 +38,4 @@
 #### Download
 - [OneDrive](https://1drv.ms/f/s!AlF3Be_wRLoUgxtK3y-ij76_qBlR)
 - [Gdrive](https://drive.google.com/uc?id=12mSngGbUUTkoo8rlGsxeuHBZgDmcUuyH&export=download)
+- [Index] (https://mika.mikamirror.workers.dev/0:/Mind-Edition_K20Pro_13.0.18.0_A12_fixed.zip)
