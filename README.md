@@ -29,7 +29,7 @@
 - More options on special features.
 - Maybe more I can't remember.
 
-Notes:
+#### Notes:
 
 - Don't report battery drain problems, use the base rom without customisations.
 - Don't use any modules that replace system apps.
