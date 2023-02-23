@@ -5,7 +5,7 @@
 
 - Deodexed.
 - Redesigned about phone.
-- An extended list of options in Mind Lab section (see screenshots)
+- An extended list of options in Mind Lab section.
 - True safety net by default.
 - Unlimited Google Photos.
 - 90 fps unlocked for supported games.
