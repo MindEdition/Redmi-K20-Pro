@@ -30,6 +30,7 @@
 + Ability to use a 3rd party launcher
 + Bring back never option in lock screen timeout
 + Added Shutdown confirmation 
++ Many more tweaks for smoothness and performance 
 + 100+ more customisations in the mind lab section (Check screenshots)
 
 ### Credits:
