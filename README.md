@@ -46,6 +46,7 @@
 - Eol build (no more updates )
 - if you want a Google setup instead of miui , flash the file in notes from support group
 - Old 13.0.18 build is removed due to issues.
+- No bugs 
 
 #### Download
 - [Mega](https://mega.nz/file/UDx2XL6b#LKzmd-y14a23nKiZJUfPJk-3wGQ1H7PUMmZ1WUOvKlg)
