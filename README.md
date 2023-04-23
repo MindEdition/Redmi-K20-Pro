@@ -36,6 +36,7 @@
 + @kakashi1v1
 + @KevinMirandaPasiche
 + @Emili_oh
++ @naokoshoto for banner
 + And all the testers for helping out to find bugs
 + @Kakathic for base rom fixes
 #### Notes:
