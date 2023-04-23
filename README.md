@@ -37,7 +37,7 @@
 + @KevinMirandaPasiche
 + @Emili_oh
 + And all the testers for helping out to find bugs
-
++ @Kakathic for base rom fixes
 #### Notes:
 
 - Let the rom settle (use at least a day )
