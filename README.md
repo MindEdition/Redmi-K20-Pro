@@ -1,41 +1,43 @@
 # Redmi K20 Pro // Raphael
 ![Picsart_22-12-24_10-25-27-731](https://user-images.githubusercontent.com/83476983/220929114-6e4bdf52-e231-4a1b-90bc-8d0915adb6b1.jpg)
 
-#### Changelog 02/23/23
+#### Changelog 04/23/23
 
-- Deodexed.
-- Redesigned about phone.
-- An extended list of options in Mind Lab section.
-- True safety net by default.
-- Unlimited Google Photos.
-- 90 fps unlocked for supported games.
-- Added camera mod (thanks to Stash from @itzdfplayer).
-- Added "Never" option in screen timeout.
-- Added Hi-Fi sound and equalizer.
-- Added Enhanced Keyboard option.
-- Added some tweaks.
-- Fixed dark mode on individual apps (won't work on every single app).
-- Fixed notification delay.
-- Fixed power menu delay.
-- Google Play services enabled by default.
-- GPU tuner enabled.
-- Fake encryption.
-- Widevine L1 certification.
-- Nearby Share with qs toggle.
-- Separated system and notification volume control.
-- Digital well-being instead of screen timeout.
-- Signature verification disabled.
-- Perf Kernel as stock kernel.
-- More options on special features.
-- Maybe more I can't remember.
+ + Based on 14.0.3.0 CN 
++ Fixed Notification delay
++ Fixed Powermenu delay 
++ Debloated 
++ April security patch
++ Safety net pass by default
++ Added a few tweaks (will work better if rooted)
++ Magisk hide auto enable if using magisk delta 
+- deodexed
++ Multi language
++ Reduced log spam ( even clears the log on every reboot)
++ Disabled signature verification
++ Can downgrade system/user apps
++ Enabled Google services by default
++ Added google calendar and contacts sync
++Photos unlimited and 90fps spoof
++ Some surfaceflinger tweaks
++ Added sync toggle in qs
++ Added nearby toggle in qs
++ L1
++ Volte , VoWifi enabled
++ Decrypted by default and f2fs supported
++ Memory extension works fr
++ Enabled Enhanced keyboard for gboard and Swift key
++ Ability to use a 3rd party launcher
++ Bring back never option in lock screen timeout
++ Added Shutdown confirmation 
++ 100+ more customisations in the mind lab section (Check screenshots)
 
 #### Notes:
 
-- Don't report battery drain problems, use the base rom without customisations.
-- Don't use any modules that replace system apps.
-- Use your brain and try to fix things related to customisations before asking questions.
+- Let the rom settle (use at least a day )
+- Eol build (no more updates )
+- if you want a Google setup instead of miui , flash this with rom
+- Old 13.0.18 build is removed due to issues.
 
 #### Download
-- [OneDrive](https://1drv.ms/f/s!AlF3Be_wRLoUgxtK3y-ij76_qBlR)
-- [Gdrive](https://drive.google.com/uc?id=12mSngGbUUTkoo8rlGsxeuHBZgDmcUuyH&export=download)
-- [Index](https://mika.mikamirror.workers.dev/0:/Mind-Edition_K20Pro_13.0.18.0_A12_fixed.zip)
+- [Mega](https://mega.nz/file/UDx2XL6b#LKzmd-y14a23nKiZJUfPJk-3wGQ1H7PUMmZ1WUOvKlg)
