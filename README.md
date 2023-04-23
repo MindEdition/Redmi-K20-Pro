@@ -11,7 +11,7 @@
 + Safety net pass by default
 + Added a few tweaks (will work better if rooted)
 + Magisk hide auto enable if using magisk delta 
-- deodexed
++ Deodexed
 + Multi language
 + Reduced log spam ( even clears the log on every reboot)
 + Disabled signature verification
