@@ -18,7 +18,7 @@
 + Can downgrade system/user apps
 + Enabled Google services by default
 + Added google calendar and contacts sync
-+Photos unlimited and 90fps spoof
++ Photos unlimited and 90fps spoof
 + Some surfaceflinger tweaks
 + Added sync toggle in qs
 + Added nearby toggle in qs
@@ -31,6 +31,12 @@
 + Bring back never option in lock screen timeout
 + Added Shutdown confirmation 
 + 100+ more customisations in the mind lab section (Check screenshots)
+
+### Credits:
++ @kakashi1v1
++ @KevinMirandaPasiche
++ @Emili_oh
++ And all the testers for helping out to find bugs
 
 #### Notes:
 
