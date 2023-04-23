@@ -36,7 +36,7 @@
 
 - Let the rom settle (use at least a day )
 - Eol build (no more updates )
-- if you want a Google setup instead of miui , flash this with rom
+- if you want a Google setup instead of miui , flash the file in notes from support group
 - Old 13.0.18 build is removed due to issues.
 
 #### Download
