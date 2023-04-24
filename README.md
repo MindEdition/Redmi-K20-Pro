@@ -50,3 +50,4 @@
 
 #### Download
 - [Mega](https://mega.nz/file/UDx2XL6b#LKzmd-y14a23nKiZJUfPJk-3wGQ1H7PUMmZ1WUOvKlg)
+- [Gdrive](https://drive.google.com/file/d/12xDzh-iw_pvc52KRhcH9C0ZNpzN0hy60/view?usp=drivesdk)
