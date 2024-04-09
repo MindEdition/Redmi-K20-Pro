@@ -9,8 +9,6 @@
 - Fixed Vowifi and Volte 
 - Fixed Offline Charging
 - Added Xiaomi.eu changes ( no notification delay , multi-language, region fix etc )
-- Fixed Google Assistant, Ok Google works perfectly now
-- Added Android Auto
 - Disabled Signature Verification
 - Replaced home screen MIUI icons with HyperOS 
 - Added Enhanced keyboard support 
@@ -28,7 +26,6 @@
 - Added MiLanPro font
 - System smoothness increased
 - Some system apps are modified and replaced with HyperOS apps
-- GPU Drivers are updated to 530.50
 - F2FS and EXT4 both are supported by default
 - Rom is decrypted by default 
 - Rapid installer 
