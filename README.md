@@ -39,16 +39,12 @@
 - Gphotos and Games spoof 
 - many more....
 
-
-### THIS VERSION IS OVERALL BETTER THAN LAST RELEASE 
-
-
 ### Customisations:
 - Just explore and check screenshots
 
+### Enjoy the mind experience ✨
 
-
-Enjoy the mind experience ✨
+### THIS VERSION IS OVERALL BETTER THAN LAST RELEASE 
 
 ### Credits:
 + @kakashi1v1
