@@ -1,53 +1,74 @@
 # Redmi K20 Pro // Raphael
 ![Picsart_22-12-24_10-25-27-731](https://user-images.githubusercontent.com/83476983/220929114-6e4bdf52-e231-4a1b-90bc-8d0915adb6b1.jpg)
 
-#### Changelog 04/23/23
+#### Changelog 10/04/24
 
- + Based on 14.0.3.0 CN 
-+ Fixed Notification delay
-+ Fixed Powermenu delay 
-+ Debloated 
-+ April security patch
-+ Safety net pass by default
-+ Added a few tweaks (will work better if rooted)
-+ Magisk hide auto enable if using magisk delta 
-+ Deodexed
-+ Multi language
-+ Reduced log spam ( even clears the log on every reboot)
-+ Disabled signature verification
-+ Can downgrade system/user apps
-+ Enabled Google services by default
-+ Added google calendar and contacts sync
-+ Photos unlimited and 90fps spoof
-+ Some surfaceflinger tweaks
-+ Added sync toggle in qs
-+ Added nearby toggle in qs
-+ L1
-+ Volte , VoWifi enabled
-+ Decrypted by default and f2fs supported
-+ Memory extension works fr
-+ Enabled Enhanced keyboard for gboard and Swift key
-+ Ability to use a 3rd party launcher
-+ Bring back never option in lock screen timeout
-+ Added Shutdown confirmation 
-+ Many more tweaks for smoothness and performance 
-+ 100+ more customisations in the mind lab section (Check screenshots)
+ Base Changes
+- Base from K30P(lmi)
+- Fixed NFC
+- Fixed Vowifi and Volte 
+- Fixed Offline Charging
+- Added Xiaomi.eu changes ( no notification delay , multi-language, region fix etc )
+- Fixed Google Assistant, Ok Google works perfectly now
+- Added Android Auto
+- Disabled Signature Verification
+- Replaced home screen MIUI icons with HyperOS 
+- Added Enhanced keyboard support 
+- Gboard themes 
+- Fixed excessive battery draining
+- Improved smoothness and gaming performance
+- Disabled useless google services on boot and clear logs on each boot
+- Only app crash logs are generated 
+- Improved sound quality 
+- Chrome is installed by default as a user app 
+- Replaced stock wallpaper with mind
+- Modified stock camera and unlocked some features 
+- CPU & GPU Optimisations improving idle drain and performance 
+- Removed Volte icon from statusbar but it works
+- Added MiLanPro font
+- System smoothness increased
+- Some system apps are modified and replaced with HyperOS apps
+- GPU Drivers are updated to 530.50
+- F2FS and EXT4 both are supported by default
+- Rom is decrypted by default 
+- Rapid installer 
+- New cool boot logo
+- Support L1 Update 
+- Added fake encryption for work profile 
+- Safetynet and device integrity passed
+- Gphotos and Games spoof 
+- many more....
+
+
+### THIS VERSION IS OVERALL BETTER THAN LAST RELEASE 
+
+
+### Customisations:
+- Just explore and check screenshots
+
+
+
+Enjoy the mind experience ✨
 
 ### Credits:
 + @kakashi1v1
 + @KevinMirandaPasiche
-+ @Emili_oh
++ Miui Mind Team
 + @naokoshoto for banner
-+ And all the testers for helping out to find bugs
-+ @Kakathic for base rom fixes
-#### Notes:
 
-- Let the rom settle (use at least a day )
-- Eol build (no more updates )
-- if you want a Google setup instead of miui , flash the file in notes from support group
-- Old 13.0.18 build is removed due to issues.
-- No bugs 
+#### Notes:
+- It is recommended not to update any system apps
+- Let the rom settle 
+
+### Some Do's:
+- Open each and every customisation section after boot to apply default values
+- Switch between notifications style once to fix Android style notifications
+
+### Flashing Instructions :
+- Use official orange fox recovery
+- Wipe everything except internal storage
+- Flash rom  ( No need to flash dfe or f2fs patch )
+- Flash Magisk ( optional )
+- Reboot to system
 
 #### Download
-- [Mega](https://mega.nz/file/UDx2XL6b#LKzmd-y14a23nKiZJUfPJk-3wGQ1H7PUMmZ1WUOvKlg)
-- [Gdrive](https://drive.google.com/file/d/12xDzh-iw_pvc52KRhcH9C0ZNpzN0hy60/view?usp=drivesdk)
