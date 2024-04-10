@@ -68,3 +68,5 @@
 - Reboot to system
 
 #### Download
+- [Mega](https://mega.nz/file/Jb5HgLxC#e9Fq3NvRcAuD4AfSVq-3a1wUI_B1JSLNPXqMnUkseS8) 
+- [Gdrive](https://drive.google.com/uc?id=1uFtjogEcIa8j6BgMKBlZP5MdKEIDXL4w&export=download)
