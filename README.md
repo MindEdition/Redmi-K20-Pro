@@ -6,7 +6,7 @@
  Base Changes
 - Base from K30P(lmi)
 - Fixed NFC
-- Fixed Vowifi and Volte 
+- Fixed Volte
 - Fixed Offline Charging
 - Added Xiaomi.eu changes ( no notification delay , multi-language, region fix etc )
 - Disabled Signature Verification
@@ -35,6 +35,9 @@
 - Safetynet and device integrity passed
 - Gphotos and Games spoof 
 - many more....
+
+### Issues:
+- VoWifi (Base Issue)
 
 ### Customisations:
 - Just explore and check screenshots
