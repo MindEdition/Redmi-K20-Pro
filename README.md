@@ -36,8 +36,19 @@
 - Gphotos and Games spoof 
 - many more....
 
-### Issues:
-- VoWifi (Base Issue)
+### Hotfix update changes 13/4/24
+- Added back Volte icon with ability to disable it from settings 
+- Removed Vowifi settings completely
+- Fixed Notification Color
+- Fixed File Manager crash
+- Fixed some network settings 
+- Fixed the incall ui crash 
+- Fixed the issue of lag while scrolling 
+- Fixed some grammatical mistakes in strings 
+- Integrity fix improvements 
+- Bypass some harmful props via resetprop
+- Adjustments in gpu values to improve over-all experience
+- Some improvement not worth mentioning
 
 ### Customisations:
 - Just explore and check screenshots
@@ -68,5 +79,4 @@
 - Reboot to system
 
 #### Download
-- [Mega](https://mega.nz/file/Jb5HgLxC#e9Fq3NvRcAuD4AfSVq-3a1wUI_B1JSLNPXqMnUkseS8) 
-- [Gdrive](https://drive.google.com/uc?id=1uFtjogEcIa8j6BgMKBlZP5MdKEIDXL4w&export=download)
+Will upload soon
