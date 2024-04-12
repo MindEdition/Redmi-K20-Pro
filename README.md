@@ -81,4 +81,5 @@
 
 #### Download
 - [Mega](https://mega.nz/file/0XYEDBgC#0lRvit4wsKZFZXQ6ZOdcEra_0fRMaj1ZH27NbPF3J_4) 
- Gdrive link soon
+
+- [Gdrive](https://drive.google.com/uc?id=1Lf9hTpb4J0zxGroLFIPkZGCi4Engteh-&export=download)
