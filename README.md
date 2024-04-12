@@ -66,7 +66,7 @@
 #### Notes:
 - It is recommended not to update any system apps
 - Let the rom settle
-- - There's no gms drain in this one so don't use any kind of termux commands , if you did then don't report issues
+- There's no gms drain in this one so don't use any kind of termux commands , if you did then don't report issues
 
 ### Some Do's:
 - Open each and every customisation section after boot to apply default values
