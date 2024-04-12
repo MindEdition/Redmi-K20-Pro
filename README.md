@@ -80,4 +80,5 @@
 - Reboot to system
 
 #### Download
-Will upload soon
+- [Mega](https://mega.nz/file/0XYEDBgC#0lRvit4wsKZFZXQ6ZOdcEra_0fRMaj1ZH27NbPF3J_4) 
+ Gdrive link soon
