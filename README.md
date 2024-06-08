@@ -64,7 +64,6 @@
 - Signed build 
 - Updated Gameprops 
 - Updated pif , device is certified again
-- DotOS style package installer ui
 - Now you can view all your wifi passwords from manage saved networks
 - improved tweaks
 - Fixed some issues related to signature verification
@@ -88,6 +87,7 @@
 - It is recommended not to update any system apps
 - Let the rom settle
 - There's no gms drain in this one so don't use any kind of termux commands , if you did then don't report issues
+- Install MiMediaEditor From Internal Storage > Mind_ExtraApps folder
 
 ### Some Do's:
 - Open each and every customisation section after boot to apply default values
@@ -101,6 +101,6 @@
 - Reboot to system
 
 #### Download
-- [Mega]() 
+- [Mega](https://mega.nz/file/1LhHRQha#LO51Wq8c-qEOw_EdIdv6w_4-S5Z42nLVZFDeZf1XyKk) 
 
-- [Gdrive]()
+- [Gdrive](https://drive.google.com/uc?id=1e2fMNbpRvHJgdr1YYHBiEVv7Wy_wLiyp&export=download)
