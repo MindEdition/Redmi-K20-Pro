@@ -50,6 +50,27 @@
 - Adjustments in gpu values to improve over-all experience
 - Some improvement not worth mentioning
 
+### Update V3 8/6/24
+- Fixed Vowifi
+- Fixed Screenshot share 
+- Fixed delete after share option
+- Updated gallery to global
+- Updated File Manager 
+- Updated Weather app ( fixing the issues )
+- Updated MiMusic 
+- Removed MiVideo 
+- Replaced MiVideo with MiMediaViewer 
+- Round Ui ( removed those square corners used by default )
+- Signed build 
+- Updated Gameprops 
+- Updated pif , device is certified again
+- DotOS style package installer ui
+- Now you can view all your wifi passwords from manage saved networks
+- improved tweaks
+- Fixed some issues related to signature verification
+- Updated device overlays 
+- White fod halo light instead of green
+
 ### Customisations:
 - Just explore and check screenshots
 
@@ -80,6 +101,6 @@
 - Reboot to system
 
 #### Download
-- [Mega](https://mega.nz/file/0XYEDBgC#0lRvit4wsKZFZXQ6ZOdcEra_0fRMaj1ZH27NbPF3J_4) 
+- [Mega]() 
 
-- [Gdrive](https://drive.google.com/uc?id=1Lf9hTpb4J0zxGroLFIPkZGCi4Engteh-&export=download)
+- [Gdrive]()
