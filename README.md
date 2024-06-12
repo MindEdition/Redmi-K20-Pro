@@ -103,4 +103,4 @@
 #### Download
 - [Mega](https://mega.nz/file/1LhHRQha#LO51Wq8c-qEOw_EdIdv6w_4-S5Z42nLVZFDeZf1XyKk) 
 
-- [Gdrive](https://drive.google.com/uc?id=1e2fMNbpRvHJgdr1YYHBiEVv7Wy_wLiyp&export=download)
+- [Gdrive]([https://drive.google.com/uc?id=1e2fMNbpRvHJgdr1YYHBiEVv7Wy_wLiyp&export=download](https://drive.google.com/uc?id=1dW44MIJBIRrfrPdtPWOllP-Psyw4pgeS&export=download))
