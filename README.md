@@ -121,7 +121,7 @@
 - It is recommended not to update any system apps
 - Let the rom settle
 - There's no gms drain in this one so don't use any kind of termux commands , if you did then don't report issues
-- Install MiMediaEditor From Internal Storage > Mind_ExtraApps folder
+- Custom kernels that are meant for hyper os are not recommended to be flashed , can use cx 1.4 which i personally recommend using
 
 ### Some Do's:
 - Open each and every customisation section after boot to apply default values
