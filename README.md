@@ -70,7 +70,7 @@
 - Updated device overlays 
 - White fod halo light instead of green
 
-### Update V4 22/8/24
+### Update V4 27/8/24
 - Added Full Sound Charge mod by default
 - Replaced toggle switch LTE with 5G 
 -  Improved VoWifi Configuration
