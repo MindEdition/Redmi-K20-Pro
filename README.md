@@ -79,7 +79,6 @@
 - Improved FOD speed 
 - Tweaked Surfaceflinger for smoothness
 - (Major Fix) Completely fixed network issues 
-- Rename V3 to V4 in settings and mind.txt in /sdcard
 - Updated Camera Scene Detection, Better support for stock and Leica cam mods
 - Added Gesture Anywhere
 - Increase max sampling rate in MiSound
