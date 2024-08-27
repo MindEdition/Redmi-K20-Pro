@@ -70,6 +70,40 @@
 - Updated device overlays 
 - White fod halo light instead of green
 
+### Update V4 22/8/24
+- Added Full Sound Charge mod by default
+- Replaced toggle switch LTE with 5G 
+-  Improved VoWifi Configuration
+- Added support for higher refresh rate ( 60/75/90/102) , doesn't support perf kernel
+- Auto RGB values adjust according to refresh rate
+- Improved FOD speed 
+- Tweaked Surfaceflinger for smoothness
+- (Major Fix) Completely fixed network issues 
+- Rename V3 to V4 in settings and mind.txt in /sdcard
+- Updated Camera Scene Detection, Better support for stock and Leica cam mods
+- Added Gesture Anywhere
+- Increase max sampling rate in MiSound
+- Update MiSettings
+- Turn off Bluetooth, Wifi on airplane mode
+- Network speed intervals
+- Updated Pif ( Device integrity passes as of 22/08/24 )
+- Fixed HDR issue partially
+- Fixed FOD biometric string placement
+- Scrolling Optimizations
+- Dock feature added in launcher under icon settings
+- Fixed Google photos backup option in gallery 
+- Fixed dialer crash related to yellow pages
+- Added modified gallery editor by default now
+- Import display features from stock
+- Improved fstab file, removed encryption traces to prevent mount issues
+- Removed debugging from wifi config
+- Additional add-ons: 
+   + Added Raphaelin Converter which will be extracted after flashing rom at / sdcard , Flash it and let the magic do it's thing
+- Fixed camera and gallery issues
+- Added fod icons , volte and vowifi icons
+- Fixed settings search crash
+- Added notification history
+
 ### Customisations:
 - Just explore and check screenshots
 
@@ -97,10 +131,11 @@
 - Use official orange fox recovery
 - Wipe everything except internal storage
 - Flash rom  ( No need to flash dfe or f2fs patch )
+- Flash Raphaelin Converter if you have indian variant
 - Flash Magisk ( optional )
 - Reboot to system
 
 #### Download
-- [Mega](https://mega.nz/file/1LhHRQha#LO51Wq8c-qEOw_EdIdv6w_4-S5Z42nLVZFDeZf1XyKk) 
+- [Mega](https://mega.nz/file/1LhHRQha#LO51Wq8c-qEOw_EdIdv6w_4-S5Z42nLVZFDeZf1XyKk) V3
 
-- [Gdrive](https://drive.google.com/uc?id=1dW44MIJBIRrfrPdtPWOllP-Psyw4pgeS&export=download)
+- [Gdrive](https://drive.google.com/uc?id=134xFirlPEzson87lkXLx8PQp_uLwPpJW&export=download) New V4
